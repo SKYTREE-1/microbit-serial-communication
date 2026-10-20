@@ -88,7 +88,7 @@ micro:bitを、
 micro:bitをいろいろな方向に動かして、
 X・Y・Zの値がどのように変化するか観察してみましょう。
 
-## 3-1 データの確認
+## 3-1 データの確認 @unplugged
 実際にデータの確認をしてみましょう。
 
 ![データの表示](https://skytree-1.github.io/microbit-serial-communication/images/sc001.png)
