@@ -91,7 +91,7 @@ X・Y・Zの値がどのように変化するか観察してみましょう。
 ## 3-1 データの確認
 実際にデータの確認をしてみましょう。
 
-![文字列の表示](https://raw.githubusercontent.com/microbit-serial-communication/images/sc01.png)
+![文字列の表示](https://skytree-1.github.io/microbit-serial-communication/images/sc01.png)
 
 
 
