@@ -2,13 +2,25 @@
 > このページを開く [https://skytree-1.github.io/microbit-serial-communication/](https://skytree-1.github.io/microbit-serial-communication/)
 
 
-## このプロジェクトを編集します
 
-MakeCode でこのリポジトリを編集します。
+[チュートリアル全体を表示](https://skytree-1.github.io/microbit-serial-communication/tutorial)
 
-* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
-* **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/skytree-1/microbit-serial-communication** を貼り付けてインポートをクリックしてください
+# シリアル通信のプログラム
+
+micro:bit からシリアル通信でPCへデータを送る方法を学ぶチュートリアルです。
+
+## このチュートリアルで学ぶこと
+
+- micro:bitからシリアル通信でデータをPCへ送り、確認する
+
+## チュートリアル
+
+詳しい手順は `tutorial.md` を参照してください。
+
+
+## 実行
+
+* [チュートリアルを実行](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/microbit-serial-communication/tutorial) 
 
 #### メタデータ (検索、レンダリングに使用)
 
